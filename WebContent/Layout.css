@@ -4,8 +4,17 @@ h1{
 	text-align: center;
 	}
 
+h2{
+	text-align: center;
+	background-color: green;
+	border-style: groove;
+	border-color: purple;
+	color: white;
+}
+
+
 body{
-	bacground-color: green;
+	background-color: green;
 	
 	
 }
@@ -17,5 +26,12 @@ body{
 	max-with: 150px;
 	max-height: 150px;
 	
+}
+
+.imageArticle{
+	
+	max-with: 800px;
+	max-height: 800px;
+	margin: auto;
 	
 }
