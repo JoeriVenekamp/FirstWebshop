@@ -14,10 +14,7 @@ h2{
 	color: white;
 }
 
-h3{
-		
-	
-}
+
 body{
 	background: linear-gradient(green, white);
 	margin-bottom: 0px;
@@ -33,6 +30,10 @@ span{
 	border: 2px solid #ccc;
 	float: right;
 
+}
+
+.band{
+	
 }
 
 .imageArticle{
