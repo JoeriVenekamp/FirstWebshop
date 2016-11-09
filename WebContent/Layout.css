@@ -1,6 +1,6 @@
 h1{
-	background-color: purple;
-	color: green;
+	background-color: green;
+	color: white;
 	text-align: center;
 	}
 
@@ -12,9 +12,15 @@ h2{
 	color: white;
 }
 
-
+h3{
+	
+	
+	
+	
+	
+}
 body{
-	background-color: green;
+	background-color: white;
 	
 	
 }
@@ -30,8 +36,8 @@ body{
 
 .imageArticle{
 	
-	max-with: 800px;
-	max-height: 800px;
+	max-with: 400px;
+	max-height: 400px;
 	margin: auto;
 	
 }
