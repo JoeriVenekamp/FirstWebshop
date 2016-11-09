@@ -2,6 +2,7 @@ h1{
 	background-color: green;
 	color: white;
 	text-align: center;
+	border-top: 1px solid red
 	}
 
 h2{
@@ -23,6 +24,12 @@ body{
 	background-color: white;
 	
 	
+}
+
+span{
+	background-color: green;
+	text-align: left;
+	margin-right: 10px;
 }
 	
 .logo{
