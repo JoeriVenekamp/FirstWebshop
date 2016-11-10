@@ -1,3 +1,12 @@
+html { 
+  
+  background: url(Images/Background.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 h1{
 	background-color: white;
 	color: green;
@@ -15,9 +24,10 @@ h2{
 }
 
 
-body{
-	background: linear-gradient(green, white);
-	margin-bottom: 0px;
+table{
+	background-color: white;
+	opacity: 0.9;
+	
 }
 
 span{
